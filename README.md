@@ -1,4 +1,4 @@
-# PPJ
+# About me
 
 I am a Junior Developer. I have been developing my skills in Java and Angular 
 for the last 4 years, and have a 9 months professional work experience. I like 
